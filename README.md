@@ -1,4 +1,3 @@
-I am testing my automation 
 
 Addressbook Tutorial
 ====================
